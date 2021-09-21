@@ -2,7 +2,7 @@
 
 
 - 🔭 Trabalho hoje com o Java
-- 🎓 Estudando Java/HTML/JavaScript
+- 🎓 Estudando Java/HTML/JavaScript/CSS3
 
 <div>
   <a href="https://github.com/maeteusmaiadb">
