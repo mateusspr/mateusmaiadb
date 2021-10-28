@@ -1,7 +1,7 @@
 ### Olá me chamo Mateus Pereira👋
 
 
-- 🔭 Trabalho hoje com o Java
+- 🔭 Trabalho hoje com Java
 - 🎓 Estudando Java/HTML/JavaScript/CSS3
 
 <div>
