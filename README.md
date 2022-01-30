@@ -1,8 +1,8 @@
 ### Olá me chamo Mateus Pereira👋
 
 
-- 🔭 Trabalho hoje com Java
-- 🎓 Estudando Java/HTML/JavaScript/CSS3
+- 🔭 Trabalho hoje com Angular
+- 🎓 Estudando Java/HTML/JavaScript/TypeScript/CSS3
 
 <div>
   <a href="https://github.com/maeteusmaiadb">
