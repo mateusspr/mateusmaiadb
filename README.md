@@ -2,7 +2,7 @@
 
 
 - 🔭 Trabalho hoje com Angular
-- 🎓 Estudando Java/HTML/JavaScript/TypeScript/CSS3 /ReactNative/React
+- 🎓 Estudando Java/JavaScript/TypeScript/ReactNative/React
 
 <div>
   <a href="https://github.com/maeteusmaiadb">
