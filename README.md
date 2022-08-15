@@ -1,7 +1,7 @@
 ### Olá me chamo Mateus Pereira👋
 
 
-- 🔭 Trabalho hoje com Angular
+- 🔭 Trabalho hoje como Dev FullStack
 - 🎓 Estudando Java/JavaScript/TypeScript/ReactNative/React
 
 <div>
