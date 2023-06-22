@@ -2,7 +2,6 @@
 
 
 - 🔭 Trabalho hoje como Dev FullStack
-- 🎓 Estudando Java/JavaScript/TypeScript/ReactNative/React
 
 <div>
   <a href="https://github.com/maeteusmaiadb">
